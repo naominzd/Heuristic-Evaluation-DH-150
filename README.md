@@ -35,12 +35,13 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 - No "page loading" indicators: when I am on the "Blog" page, the page shows 10 articles in total, whereas when loading, the website doesn’t indicate the process. Instead, it shows a black block which confuses users to understand which actions are being processed. The solution is to add a loading indication such as a percentage bar that shows the number of articles that the website is trying to load. Severity Rating (3)
 
+## 2: Match between system and the real world 
 
-### Installing
+- On the home page, there’s no introduction of the organization and thus first-time users who use the website might feel lost of what they are looking at. For example, on the homepage, there are only a random aesthetics picture, the title of the organization, and three buttons that link to the social media platforms of the organization (Twitter, Facebook, and Instagram). Severity Rating (3)
 
-A step by step series of examples that tell you how to get a development env running
+- The “Join” page could be misleading to users. On the page, the website provides a mailing form which should be instead categorized as “Subscription” instead of “Join”. Additionally, on the top part, the website exhibits information for “Membership” which should be listed on a separate website because it serves for a different function (recruitment instead of collaboration). Severity Rating (2)
 
-Say what the step will be
+## 3: User control and freedom
 
 ```
 Give the example
