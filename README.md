@@ -8,7 +8,7 @@ Overall Motivation and Description of the Community:
 
 ### First Website - Sociology Undergraduate Association website 
 
-Information about the website and organization: 
+Information About the Website and the Organization: 
 
 - http://bruinsua.weebly.com/
 
@@ -80,7 +80,7 @@ Brief Initial Evaluation and Motivation:
 
 ### Second Website - OutWrite Magazine website 
 
-Information about the website and organization:
+Information About the Website and the Organization: 
 
 - https://outwritenewsmag.org/
 
@@ -130,7 +130,7 @@ Brief Initial Evaluation and Motivation:
 
 ## 7: Flexibility and efficiency of use
 
-- Overall satisfactory: the website provides back to the top arrow on the bottom of each page. Therefore, users don’t need to scroll all the way up to the main menu bar in case they would like to switch pages. Although this function might be unseen by first-time users of the website, (unless they experiment in their first trial), they help speed up the interaction between frequent users. 
+- Overall satisfactory: the website provides "back to the top" button on the bottom of each page. Therefore, users don’t need to scroll all the way up to the main menu bar in case they would like to switch pages. Although this function might be unseen by first-time users of the website, (unless they experiment in their first trial), they help speed up the interaction between frequent users. 
 
 ## 8: Aesthetic and minimalist design
 
