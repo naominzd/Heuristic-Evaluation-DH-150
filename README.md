@@ -1,4 +1,4 @@
-# UX Design for Community Learning - UCLA
+# UX Design for Campus Organizations - UCLA
 
 ### DH150 Assignment 01: Heuristic Evaluation by Naomi Deng
 
