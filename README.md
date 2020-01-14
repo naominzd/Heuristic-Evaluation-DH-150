@@ -1,4 +1,4 @@
-# Heuristic-Evaluation-DH-150
+# UX Design for Community Learning - UCLA campus organization
 
 ### DH150 Assignment 01: Heuristic Evaluation by Naomi Deng
 
@@ -13,8 +13,6 @@ The second website is the website for an on-campus, student-run magazine called 
 ![Screen Shot 2020-01-14 at 01 41 16](https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png)
 
 ### First Heuristic Evaluation - Sociology Undergraduate Association website 
-
-What things you need to install the software and how to install them
 
 http://bruinsua.weebly.com/
 
