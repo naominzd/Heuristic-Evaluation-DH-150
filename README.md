@@ -91,7 +91,7 @@ https://outwritenewsmag.org/
 
 ![Screen Shot 2020-01-14 at 01 41 16](https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png)
 
-Motivation and Brief Initial Evaluation: 
+Brief Initial Evaluation and Motivation: 
 
 sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
