@@ -4,6 +4,11 @@
 
 Motivation and Description of the community: In this assignment, I choose to focus on the undergraduate organizations at University of California, Los Angeles, particularly by analyzing the official websites designed for two on-campus organizations: Sociology Undergraduate Association and Outwrite Magazine. As a member who contributes to both organizations, I have a close access to both organizations’ websites. Through my frequent-user experiences, I recognized some noticeable errors and flaws in their website designs that might affect user experience especially for novice users. Therefore, through this exercise, I aim to recognize, detect and analyze both websites following Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems, as well as propose potential suggestions for overall improvement on both websites. 
 
+The first website is the official website of Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under Sociology department with a purpose of fostering community learning in the academia of Sociology. The website is hosted by executive members from the association, using the platform Weebly. 
+
+
+
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
