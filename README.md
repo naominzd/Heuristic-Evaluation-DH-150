@@ -1,6 +1,6 @@
 # UX Design for Campus Organizations - UCLA
 
-### DH150 User Experience Design, Assignment 01: Heuristic Evaluation by Naomi Deng
+### DH150 Assignment01: Heuristic Evaluation by Naomi Deng
 
 Overall Motivation and Description of the Community: 
 
