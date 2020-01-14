@@ -10,9 +10,9 @@ Overall Motivation and Description of the Community:
 
 Information about the website and organization: 
 
-- This is an official website of the Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under the Sociology department with the purpose of fostering community learning in the academia of Sociology. The websites consist of 5 distinctive pages, “Home,” “About,” “Gallery,” “Blog” and “Join”. Apart from the “Gallery” page, each page is developed and displayed with different information. For example, on the “Blog” page, it shows articles written by SUA bloggers and writing contributors. Users could use the website to gain information about members on the executive board, connect with the organization through the email addresses and social media platforms listed on the website, review sociology-related articles and join the mailing list for updates. The website is hosted and managed by executive members from the association, using the platform Weebly.
+- http://bruinsua.weebly.com/
 
-http://bruinsua.weebly.com/
+- This is an official website of the Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under the Sociology department with the purpose of fostering community learning in the academia of Sociology. The websites consist of 5 distinctive pages, “Home,” “About,” “Gallery,” “Blog” and “Join”. Apart from the “Gallery” page, each page is developed and displayed with different information. For example, on the “Blog” page, it shows articles written by SUA bloggers and writing contributors. Users could use the website to gain information about members on the executive board, connect with the organization through the email addresses and social media platforms listed on the website, review sociology-related articles and join the mailing list for updates. The website is hosted and managed by executive members from the association, using the platform Weebly.
 
 ![Screen Shot 2020-01-14 at 01 17 59](https://user-images.githubusercontent.com/59623164/72333123-27c9e000-3670-11ea-9109-1c60d09c0a48.png)
 
@@ -87,9 +87,9 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 Information about the website and organization:
 
--  This is a website of an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. The website includes a home page and 9 pages that exhibit editorials in addition to original illustrations. On the website, users could review articles regarding a wide spectrum of topics such as politics and news, arts and entertainment, campus happenings and popular culture. The core functionality of the website is to offer a platform for the creative efforts of the magazine’s staff and individuals within the queer community. We aim to articulate these experiences as well as raising awareness and elevating respect for diverse identities. 
+- https://outwritenewsmag.org/
 
-https://outwritenewsmag.org/
+-  This is a website of an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. The website includes a home page and 9 pages that exhibit editorials in addition to original illustrations. On the website, users could review articles regarding a wide spectrum of topics such as politics and news, arts and entertainment, campus happenings and popular culture. The core functionality of the website is to offer a platform for the creative efforts of the magazine’s staff and individuals within the queer community. We aim to articulate these experiences as well as raising awareness and elevating respect for diverse identities. 
 
 ![Screen Shot 2020-01-14 at 01 41 16](https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png)
 
