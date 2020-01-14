@@ -27,15 +27,15 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 ## 1: Visibility of system status
 
-- The website does not always inform users about what is going on on the website. For example, when I first opened the gallery page, there is no indication of what kind of content is exhibited on the page, nor is there a loading sign of any graphic contents. I waited for a few minutes to make sure that the page is empty. A solution to the problem is to have written content such as “please check with us later, the page is still under development” to inform users that the gallery page is not fully updated. Severity Rating (3).
+- The website does not always inform users about what is going on on the website. For example, when I first opened the "Gallery" page, there is no indication of what kind of content is exhibited on the page, nor is there a loading sign of any graphic content. I waited for a few minutes to make sure that the page is empty. A solution to the problem is to have written content such as “please check with us later, the page is still under development” to inform users that the "Gallery" page is not fully updated. Severity Rating (3).
 
 - No "page loading" indicators: when I am on the "Blog" page, the page shows 10 articles in total, whereas when loading, the website doesn’t indicate the process. Instead, it shows a black block which confuses users to understand which actions are being processed. The solution is to add a loading indication such as a percentage bar that shows the number of articles that the website is trying to load. Severity Rating (3).
 
 ## 2: Match between system and the real world 
 
-- On the home page, there’s no introduction of the organization and thus first-time users who use the website might feel lost of what they are looking at. For example, on the homepage, there are only a random aesthetics picture, the title of the organization, and three buttons that link to the social media platforms of the organization (Twitter, Facebook, and Instagram). Severity Rating (3).
+- On the "Home" page, there’s no introduction of the organization and thus first-time users who use the website might feel lost of what they are looking at. Conventionally, when facing a new platform or using a newly purchased product, we tend to read the introduction and manual. However, on the homepage, there are only a random aesthetics picture, the title of the organization, and three buttons that link to the social media platforms of the organization (Twitter, Facebook, and Instagram). Thus the page does not follow real-world conventions. Severity Rating (3).
 
-- The “Join” page could be misleading to users. On the page, the website provides a mailing form which should be instead categorized as “Subscription” instead of “Join”. Additionally, on the top part, the website exhibits information for “Membership” which should be listed on a separate website because it serves for a different function (recruitment instead of collaboration). Severity Rating (2).
+- The “Join” page could be confusing and misleading to users. On the page, the website provides a mailing form which should be instead categorized as “Subscription” instead of “Join”. Additionally, on the top part, the website exhibits information for “Membership” which should be listed on a separate website because it serves for a different function (recruitment instead of collaboration). Severity Rating (2).
 
 ## 3: User control and freedom
 
