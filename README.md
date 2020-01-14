@@ -79,6 +79,8 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 - Although the website contains an “About Page,” where the information of the executive board is listed, there is no relevant information such as contact email and job description for each director individually. Therefore, for users who aim to collaborate with users for a particular purpose, it might be confusing and difficult for them to reach out to the right people (person) in charge of the task. Severity Rating (2).
 
+![SUA contact info](https://user-images.githubusercontent.com/59623164/72344854-1f30d400-3687-11ea-9043-2892d41f27d3.png)
+
 ### Second Website - OutWrite Magazine website 
 
 The second website is the website for an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. 
