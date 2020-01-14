@@ -95,14 +95,9 @@ Information about the website and organization:
 
 Brief Initial Evaluation and Motivation: 
 
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
+- At first sight, the website applies a clear (white) background with multiple colors that existed in different graphic designs and logos. The overall layout is clean, organized and well-structured. It follows a left-right-division where main content on each page is structurally formatted on the left side, with a sidebar that provides additional information on the right side. One noticeable incongruent element that appears on each page is the font size difference between the heading and sub-categories. For example, on the “Arts and Entertainment” page, the title font displayed over the bright green bar is much bigger than the four sub-categories – “Film,” “Literature,” “Music” and “TV”. When hovering over the menu bar, the words (page titles) change to different colors that are consistent with the bar behind their titles. Each page is assigned with a different color theme. (example: “Politics and News” page has an orange theme) The fonts used on the website is well-formatted and easy for users to read. Diverse and enjoyable editorial content and illustrations are shown under each page. 
+
+- I am motivated ...
 
 ## 1: Visibility of system status
 
