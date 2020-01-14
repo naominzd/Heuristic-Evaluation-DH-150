@@ -2,13 +2,9 @@
 
 ### DH150 Assignment 01: Heuristic Evaluation by Naomi Deng
 
-Motivation and Description of the Community: 
+Overall Motivation and Description of the Community: 
 
 In this assignment, I choose to focus on the undergraduate student organizations at the University of California, Los Angeles, particularly by analyzing the official websites designed for two on-campus organizations: Sociology Undergraduate Association and OutWrite Magazine. As a member who has contributed to and worked with both organizations, I have close access to both websites. Through my personal experience as a frequent-user, I recognized several flaws and imperfections in their website designs that might lead to inconvenient and inefficient use of the website, which can further affect user experience, especially for novice users. A unpleasant user experience might influence the website traffic and cause obstacles for attracting new members for the organization. Therefore, through this exercise, I aim to recognize, detect and analyze both websites following Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems, as well as propose potential suggestions to create an improved overall experience for future users. 
-
-The second website is the website for an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. 
-
-![Screen Shot 2020-01-14 at 01 41 16](https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png)
 
 ### First Heuristic Evaluation - Sociology Undergraduate Association website 
 
@@ -83,7 +79,11 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 ### Second Heuristic Evaluation - OutWrite Magazine website 
 
+The second website is the website for an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. 
+
 https://outwritenewsmag.org/
+
+![Screen Shot 2020-01-14 at 01 41 16](https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png)
 
 Motivation and Brief Initial Evaluation: 
 
