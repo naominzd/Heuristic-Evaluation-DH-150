@@ -43,6 +43,45 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 ## 3: User control and freedom
 
+- On the right top corner of the website, there is an email button. If someone accidentally clicked the email button, it links to the primary email application installed on each laptop. This causes trouble for users who click this button by mistake and the website does not provide a “undo” function. For example, I am using a Mac OS system and thus it automatically opened my “Email” application. There is no undo button that prevents the application from opening. Thus, I had to manually close my email application. Severity Rating (2)
+
+- The subscription form has no "cancel" or "reset" button, which means that for users who enter the wrong information, they would have to manually delete the information instead of hitting a reset button that helps them “undo” their action. Additionally, for users who might have a second thought on submitting their contact information, there is no way to “undo” or “cancel” their submission. Severity Rating (2)
+
+## 4: Consistency and standards
+
+- The email button on the right top corner does not necessarily follow platform conventions. Conventionally, the contact and social media information are usually systematized together either on the header of the website or the foot bar. However, the website exhibits social media platforms through individual buttons on the homepage and separates the email button, which is positioned by itself. The email button should be exhibited using the same button design with the other social media buttons, and the home page should consist of an introduction of the organization. Severity Rating (3)
+
+- There is a lack of “Contact Us,” “Privacy Policy” and social media icons on the foot bar. Usually, these links could be found on the bottom of the page (platform conventions). Severity Rating (2)
+
+## 5: Error prevention
+
+- The subscription form does not detect the errors in the email information users entered in the subscription form, and thus it does not prevent errors from occurring. This missing error prevention function could cause miscommunications and lost opportunities. For example, if a user accidentally wrote “gmail.com” and “fmail.com” and the website didn’t prevent this from happening (by a friendly warning pop-up sign or box), the organization could lose a potential member or target of interest. Severity Rating (3)
+
+## 6: Recognition rather than recall
+
+- When users enter the email address in the form on the "Join" page, the website fails to provide a preset of @gmail.com / @outlook.com /@yahoo.com, which could serve for email addresses recognition as well as error prevention. Severity Rating (2)
+
+## 7: Flexibility and efficiency of use
+
+- The "Blog" page lacks individual links for each of the writing pieces and a “back to the top” option. This causes inconvenience for users who has a particular interest in a certain piece or wants to quickly go to another page. When viewing the Blog page, a user can only go through all the content listed on the page before he can choose to view another page (there are “previous” and “back” buttons provided only on the bottom of the page). Severity Rating (3). 
+
+## 8: Aesthetic and minimalist design
+
+- The website contains a minimalist design which could be further improved by reducing irrelevant graphics and reconstructing the layout of certain pages. For example, the main visual cues used in the Blog page and the overall visual appearances consist of multiple colors, whereas on the Home page, there is a black and white picture which causes confusion and inconsistency use of hues. Additionally, the Blog page appears congested and poorly structured due to the size of the fonts used in each article and the spacing between each article. Severity Rating (1).
+
+## 9: Help users recognize, diagnose, and recover from errors
+
+- Although the contact form on the "Join" page does recognize missing information, (example: there will be a reminder in case the user doesn’t provide his/her last name or email address, it explains the error in plain language as “Please correct the highlighted fields”), it does not help recognize or scrutinize errors entered manually by users in contact forms. For example, I intentionally entered an invalid email address (maggielee@jsdfksd.com), the website doesn’t not recognize the error in the email address, nor did it provide correction suggestions to solve the problem. Severity Rating (3).
+
+## 10: Help and documentation
+
+- There is no FAQ or any feedback entries except for the official email account. Thus, it might cause inconvenience for users who like to connect and collaborate, report errors for website improvement or to communicate with the administrators from the organization. Additionally, there is no clear indication or directory for “Contact Us” or contact forms. Severity Rating (3).
+
+- The website does not contain a  search bar or any equivalent search function. This lack of system function causes convenience-related problems especially because the website hosts a considerable amount of articles. For example, when I used the website for the first time, I tried to search for marketing related positions/events/networks on the website. Nevertheless, due to the lack of search function/bar, I had to manually go through each page to find if there is any related information. Severity Rating (3). 
+
+- Although the website contains an “About Page,” where the information of the executive board is listed, there is no relevant information such as contact email and job description for each director individually. Therefore, for users who aim to collaborate with users for a particular purpose, it might be confusing and difficult for them to reach out to the right people (person) in charge of the task. Severity Rating (2).
+
+
 ```
 Give the example
 ```
