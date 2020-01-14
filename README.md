@@ -154,6 +154,8 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 - One satisfactory design: under the “Contact Us” page, different contact information is listed for people who have different purposes. For example, the links to social media platforms of the magazine are provided for users who “Love our Magazine”; for users who are interested in contributing to the magazine, editors’ email addresses are listed under “Want to join?”
 
+![Screen Shot 2020-01-14 at 04 43 21](https://user-images.githubusercontent.com/59623164/72345390-7f744580-3688-11ea-88a1-5e0e040b411f.png)
+
 - The website does not contain a  search bar or any equivalent search function. This lack of system function causes convenience-related problems especially because the website hosts a considerable amount of articles. For example, when I used the website for the first time, I tried to search for marketing related positions/events/networks on the website. Nevertheless, due to the lack of search function/bar, I had to manually go through each page to find if there is any related information. Severity Rating (3). 
 
 - Nevertheless, although as an online magazine website, there could also be a section targets at FAQ or “Help” which teach novice users about how to use the website, what they could expect to gain from the content. There could also be a video guide that provides help, documentation, and introduction. Severity Rating (2).
