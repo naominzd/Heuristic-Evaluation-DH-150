@@ -31,9 +31,9 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 ## 1: Visibility of system status
 
-The website does not always inform users about what is going on on the website. For example, when I first opened the gallery page, there is no indication of what kind of content is exhibited on the page, nor is there a loading sign of any graphic contents. I waited for a few minutes to make sure that the page is empty. A solution to the problem is to have written content such as “please check with us later, the page is still under development” to inform users that the gallery page is not fully updated. Severity Rating (3)
+- The website does not always inform users about what is going on on the website. For example, when I first opened the gallery page, there is no indication of what kind of content is exhibited on the page, nor is there a loading sign of any graphic contents. I waited for a few minutes to make sure that the page is empty. A solution to the problem is to have written content such as “please check with us later, the page is still under development” to inform users that the gallery page is not fully updated. Severity Rating (3)
 
-No "page loading" indicators: when I am on the "Blog" page, the page shows 10 articles in total, whereas when loading, the website doesn’t indicate the process. Instead, it shows a black block which confuses users to understand which actions are being processed. The solution is to add a loading indication such as a percentage bar that shows the number of articles that the website is trying to load. Severity Rating (3)
+- No "page loading" indicators: when I am on the "Blog" page, the page shows 10 articles in total, whereas when loading, the website doesn’t indicate the process. Instead, it shows a black block which confuses users to understand which actions are being processed. The solution is to add a loading indication such as a percentage bar that shows the number of articles that the website is trying to load. Severity Rating (3)
 
 
 ### Installing
