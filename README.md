@@ -1,12 +1,12 @@
 # UX Design for Campus Organizations - UCLA
 
-### DH150 Assignment 01: Heuristic Evaluation by Naomi Deng
+### DH150 User Experience Design Assignment 01: Heuristic Evaluation by Naomi Deng
 
 Overall Motivation and Description of the Community: 
 
-In this assignment, I choose to focus on the undergraduate student organizations at the University of California, Los Angeles, particularly by analyzing the official websites designed for two on-campus organizations: Sociology Undergraduate Association and OutWrite Magazine. As a member who has contributed to and worked with both organizations, I have close access to both websites. Through my personal experience as a frequent-user, I recognized several flaws and imperfections in their website designs that might lead to inconvenient and inefficient use of the website, which can further affect user experience, especially for novice users. A unpleasant user experience might influence the website traffic and cause obstacles for acquiring resources and recruiting new members for the organization. Therefore, through this exercise, I aim to recognize, detect and analyze both websites following Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems, as well as propose potential suggestions to create an improved overall experience for future users. 
+In this assignment, I choose to focus on the undergraduate student organizations at the University of California, Los Angeles, particularly by analyzing the official websites designed for two on-campus organizations: Sociology Undergraduate Association and OutWrite Magazine. As a member who has contributed to and worked with both organizations, I have close access to both websites. Through my personal experience as a frequent-user, I recognized several flaws and imperfections in their website designs that might lead to inconvenient and inefficient use of the website, which can further affect user experience, especially for novice users. A unpleasant user experience might influence the website traffic and cause obstacles for acquiring resources and recruiting new members for the organization. Therefore, through this exercise, I aim to recognize, detect and analyze both websites following Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems. I hope to contribute to campus organizations I am associated with to help them  as well as propose potential suggestions to create an improved overall experience for future users. 
 
-### First Heuristic Evaluation - Sociology Undergraduate Association website 
+### First Website - Sociology Undergraduate Association website 
 
 The first website is the official website of Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under Sociology department with a purpose of fostering community learning in the academia of Sociology. The website is hosted by executive members from the association, using the platform Weebly. 
 
@@ -77,7 +77,7 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 - Although the website contains an “About Page,” where the information of the executive board is listed, there is no relevant information such as contact email and job description for each director individually. Therefore, for users who aim to collaborate with users for a particular purpose, it might be confusing and difficult for them to reach out to the right people (person) in charge of the task. Severity Rating (2).
 
-### Second Heuristic Evaluation - OutWrite Magazine website 
+### Second Website - OutWrite Magazine website 
 
 The second website is the website for an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. 
 
