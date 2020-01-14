@@ -17,9 +17,6 @@ The second website is the website for an on-campus, student-run magazine called 
 http://bruinsua.weebly.com/
 
 Motivation and Brief Initial Evaluation: 
-```
-Give examples
-```
 
 ### Installing
 
