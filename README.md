@@ -10,7 +10,7 @@ The first website is the official website of Sociology Undergraduate Association
 
 The second website is the website for an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. 
 
-
+![Screen Shot 2020-01-14 at 01 41 16](https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png)
 
 ### Prerequisites
 
