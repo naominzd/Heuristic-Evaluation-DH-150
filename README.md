@@ -6,7 +6,7 @@ Motivation and Description of the community: In this assignment, I choose to foc
 
 The first website is the official website of Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under Sociology department with a purpose of fostering community learning in the academia of Sociology. The website is hosted by executive members from the association, using the platform Weebly. 
 
-
+![Screen Shot 2020-01-14 at 01 17 59](https://user-images.githubusercontent.com/59623164/72333123-27c9e000-3670-11ea-9109-1c60d09c0a48.png)
 
 
 ### Prerequisites
