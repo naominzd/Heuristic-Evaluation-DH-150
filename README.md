@@ -110,6 +110,8 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 - A fraction of the website fails to use users’ language. Under Politics and News, there is a subcategory “Miscellaneous” section which is further categorized into “ABC,” “Dear Gay Uncle Joe,” “Kink Korner,” “Lists,” “Satire” and “Uncategorized.” Among these sub-categories, “ABC,” “Dear Gay Uncle Joe,” and “Kink Korner” and “Lists” might be confusing for first-time users. This is because these topics are not vocabularies used by the majority. This problem could be solved by adding an introduction paragraph under “Miscellaneous” which help users understand the content under these sub-categories. Severity Rating (2).
 
+![outwrite info](https://user-images.githubusercontent.com/59623164/72345206-f6f5a500-3687-11ea-8e4e-efda7c48c6e5.png)
+
 ## 3: User control and freedom
 
 - Similar to the Sociology Undergraduate Association website analyzed above, The OutWrite magazine website does not provide an “Undo” or “Cancel” button under Contact Us page. Thus, if a user enters wrong information, or would like to change her email address entered in the system, she could only manually delete her information and re-enter. Additionally, for users who have a second thought on submitting her contact information and message to the website, there is no “undo” system function, meaning she could not cancel her message submission. Severity Rating (3).
