@@ -73,11 +73,11 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 ## 10: Help and documentation
 
-- There is no FAQ or any feedback entries except for the official email account. Thus, it might cause inconvenience for users who like to connect and collaborate, report errors for website improvement or to communicate with the administrators from the organization. Additionally, there is no clear indication or directory for “Contact Us” or contact forms. Severity Rating (3).
-
 - Although the website contains an “About Page,” where the information of the executive board is listed, there is no relevant information such as contact email and job description for each director individually. Therefore, for users who aim to collaborate with users for a particular purpose, it might be confusing and difficult for them to reach out to the right people (person) in charge of the task. Severity Rating (2).
 
 ![SUA contact info](https://user-images.githubusercontent.com/59623164/72344854-1f30d400-3687-11ea-9043-2892d41f27d3.png)
+
+- There is no FAQ or any feedback entries except for the official email account. Thus, it might cause inconvenience for users who like to connect and collaborate, report errors for website improvement or to communicate with the administrators from the organization. Additionally, there is no clear indication or directory for “Contact Us” or contact forms. Severity Rating (3).
 
 - The website does not contain a search bar or any equivalent search function. This lack of system function causes convenience-related problems especially because the website hosts a considerable amount of articles. For example, when I used the website for the first time, I tried to search for marketing related positions/events/networks on the website. Nevertheless, due to the lack of search function/bar, I had to manually go through each page to find if there is any related information. Severity Rating (3). 
 
