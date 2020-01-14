@@ -41,6 +41,8 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 - On the right top corner of the website, there is an email button. If someone accidentally clicked the email button, it links to the primary email application installed on each laptop. This causes trouble for users who click this button by mistake and the website does not provide a “undo” function. For example, I am using a Mac OS system and thus it automatically opened my “Email” application. There is no undo button that prevents the application from opening. Thus, I had to manually close my email application. Severity Rating (2).
 
+![email icon](https://user-images.githubusercontent.com/59623164/72344293-bd239f00-3685-11ea-9dc5-489e7f3b91ab.png)
+
 - The subscription form has no "cancel" or "reset" button, which means that for users who enter the wrong information, they would have to manually delete the information instead of hitting a reset button that helps them “undo” their action. Additionally, for users who might have a second thought on submitting their contact information, there is no way to “undo” or “cancel” their submission. Severity Rating (2).
 
 ## 4: Consistency and standards
