@@ -18,14 +18,9 @@ Information about the website and organization:
 
 Brief Initial Evaluation and Motivation: 
 
-- sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
+- My first impression of the website is that there is very little content under each page. The overall design follows a minimalistic theme, a clear and simple structure, the typography is consistent and comfortable looking. Nevertheless, there is too much white space that is inefficiently used under each page (example, Home page consists of four buttons and a B/W picture with ½ blank space). In addition, the “Gallery” page is underdeveloped without any content. Moreover, the font of blogs is small and thus difficult to read. The overall website creates an unpleasant user-experience. It seems that the design is not based upon an explicit understanding of users, or the consideration of user experience. 
+
+- I joined SUA (Sociology Undergraduate Association) when the organization encountered a stagnant growth on social media following, and through a quarter of efforts in developing digital content, we received an increase of online recognition. Nevertheless, the official SUA website is poorly constructed with missing content and underdeveloped pages. Thus, as a member who belongs to the organization, I am motivated to apply the skills and knowledge I learned through the DH150 course to help redesign the website in consideration of user experience,  fully develop and actualize its potential,  improve communications and promote our organization. 
 
 ## 1: Visibility of system status
 
