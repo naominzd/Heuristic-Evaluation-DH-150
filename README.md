@@ -85,6 +85,8 @@ sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 
 ### Second Website - OutWrite Magazine website 
 
+Information about the website and organization:
+
 -  This is a website of an on-campus, student-run magazine called "OutWrite". OutWrite Magazine is an online media platform that instill power in the voices of queer community by sharing original editorial content, interviews and creative writing pieces on essential issues that matter. It aims to educate allies and advance communications within the community. The website includes a home page and 9 pages that exhibit editorials in addition to original illustrations. On the website, users could review articles regarding a wide spectrum of topics such as politics and news, arts and entertainment, campus happenings and popular culture. The core functionality of the website is to offer a platform for the creative efforts of the magazine’s staff and individuals within the queer community. We aim to articulate these experiences as well as raising awareness and elevating respect for diverse identities. 
 
 https://outwritenewsmag.org/
