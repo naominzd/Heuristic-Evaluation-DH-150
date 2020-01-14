@@ -8,7 +8,9 @@ In this assignment, I choose to focus on the undergraduate student organizations
 
 ### First Website - Sociology Undergraduate Association website 
 
-The first website is the official website of Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under Sociology department with a purpose of fostering community learning in the academia of Sociology. The website is hosted by executive members from the association, using the platform Weebly. 
+Information about the website and organization: 
+
+This is an official website of Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under Sociology department with a purpose of fostering community learning in the academia of Sociology. The website is hosted by executive members from the association, using the platform Weebly. 
 
 http://bruinsua.weebly.com/
 
