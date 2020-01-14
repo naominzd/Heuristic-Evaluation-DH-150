@@ -10,15 +10,15 @@ Overall Motivation and Description of the Community:
 
 Information about the website and organization: 
 
-- This is an official website of Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under Sociology department with a purpose of fostering community learning in the academia of Sociology. The website is hosted by executive members from the association, using the platform Weebly. 
+- This is an official website of the Sociology Undergraduate Association at UCLA. Sociology Undergraduate Association at UCLA is an on-campus organization registered under the Sociology department with the purpose of fostering community learning in the academia of Sociology. The websites consist of 5 distinctive pages, “Home,” “About,” “Gallery,” “Blog” and “Join”. Apart from the “Gallery” page, each page is developed and displayed with different information. For example, on the “Blog” page, it shows articles written by SUA bloggers and writing contributors. Users could use the website to gain information about members on the executive board, connect with the organization through the email addresses and social media platforms listed on the website, review sociology-related articles and join the mailing list for updates. The website is hosted and managed by executive members from the association, using the platform Weebly.
 
 http://bruinsua.weebly.com/
 
 ![Screen Shot 2020-01-14 at 01 17 59](https://user-images.githubusercontent.com/59623164/72333123-27c9e000-3670-11ea-9109-1c60d09c0a48.png)
 
-Motivation and Brief Initial Evaluation: 
+Brief Initial Evaluation and Motivation: 
 
-sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
+- sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
 sdosafhsdhhihhsidgfsdhcosndcjosidcnksdpcadkbfsldnfpdsnfsdnknfdbjngldhgflkdnglkd
